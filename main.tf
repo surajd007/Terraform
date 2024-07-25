@@ -1,8 +1,8 @@
 # Configure the AWS provider
 provider "aws" {
         region = "us-east-1"
-        access_key = "AKIA6ODU4FLMUHMV424D"
-        secret_key = "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"
+        access_key = ""
+        secret_key = ""
 }
 
 # Create a key pair for SSH access
